@@ -1,2 +1,3 @@
 im lazy.
 this is done thru nano on git
+Added 1 more line lmao
